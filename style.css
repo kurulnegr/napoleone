@@ -12,6 +12,9 @@ p{
 img{
     width: 800px;
 }
+nav{
+    margin-top: 50px;
+}
 nav a{
     font-size: 30px;
     color: black;
